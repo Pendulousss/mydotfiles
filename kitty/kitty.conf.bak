@@ -1,0 +1,7 @@
+# Kitty terminal configuration file
+
+
+# BEGIN_KITTY_THEME
+# Homebrew
+include current-theme.conf
+# END_KITTY_THEME
